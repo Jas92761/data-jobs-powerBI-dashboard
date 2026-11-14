@@ -145,7 +145,7 @@ Single flat table: **`job_postings_flat`**
 
 ## Author
 
-**Utkarsh Yadav**  
+**Jaspreet Singh Chawla**  
 ## About the Author
 
 I am **Jaspreet Singh Chawla**, a B.Tech Chemical Engineering student at Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat. I am passionate about data analytics, SQL, product development, and non-core consulting roles. My background includes a Product Developer Internship at Nexteir, where I worked on AI integration and workflow optimization.
